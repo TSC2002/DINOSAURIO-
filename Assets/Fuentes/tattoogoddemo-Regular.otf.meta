@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9b8add226bd3f1f48a570a171e225c46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - tattoo god demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82cd27b97e118a844a61c07fbedfcc22, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
